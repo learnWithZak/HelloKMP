@@ -1,0 +1,2 @@
+com/raywenderlich/BuildConfig.java
+ com.raywenderlich.BuildConfig

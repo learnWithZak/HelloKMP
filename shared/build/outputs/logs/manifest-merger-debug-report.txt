@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/learn/AndroidStudioProjects/HelloKMP/shared/src/androidMain/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/learn/AndroidStudioProjects/HelloKMP/shared/src/androidMain/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/learn/AndroidStudioProjects/HelloKMP/shared/src/androidMain/AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from /Users/learn/AndroidStudioProjects/HelloKMP/shared/src/androidMain/AndroidManifest.xml:3:5-32
+		INJECTED from /Users/learn/AndroidStudioProjects/HelloKMP/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/learn/AndroidStudioProjects/HelloKMP/shared/src/androidMain/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/learn/AndroidStudioProjects/HelloKMP/shared/src/androidMain/AndroidManifest.xml:2:11-69
+uses-sdk
+INJECTED from /Users/learn/AndroidStudioProjects/HelloKMP/shared/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/learn/AndroidStudioProjects/HelloKMP/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/learn/AndroidStudioProjects/HelloKMP/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/learn/AndroidStudioProjects/HelloKMP/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/learn/AndroidStudioProjects/HelloKMP/shared/src/androidMain/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/learn/AndroidStudioProjects/HelloKMP/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/learn/AndroidStudioProjects/HelloKMP/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/learn/AndroidStudioProjects/HelloKMP/shared/src/androidMain/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/learn/AndroidStudioProjects/HelloKMP/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/learn/AndroidStudioProjects/HelloKMP/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/learn/AndroidStudioProjects/HelloKMP/shared/src/androidMain/AndroidManifest.xml
