@@ -4,7 +4,7 @@ ADDED from /Users/learn/AndroidStudioProjects/HelloKMP/shared/src/androidMain/An
 INJECTED from /Users/learn/AndroidStudioProjects/HelloKMP/shared/src/androidMain/AndroidManifest.xml:2:1-5:12
 INJECTED from /Users/learn/AndroidStudioProjects/HelloKMP/shared/src/androidMain/AndroidManifest.xml:2:1-5:12
 	package
-		ADDED from /Users/learn/AndroidStudioProjects/HelloKMP/shared/src/androidMain/AndroidManifest.xml:3:5-32
+		ADDED from /Users/learn/AndroidStudioProjects/HelloKMP/shared/src/androidMain/AndroidManifest.xml:3:5-22
 		INJECTED from /Users/learn/AndroidStudioProjects/HelloKMP/shared/src/androidMain/AndroidManifest.xml
 		INJECTED from /Users/learn/AndroidStudioProjects/HelloKMP/shared/src/androidMain/AndroidManifest.xml
 	xmlns:android
